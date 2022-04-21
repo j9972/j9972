@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=#FFEE00&height=300&section=header&text=꾸준한%20걸음마&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=#FFEE00&height=300&section=header&text=Jung%20Su%20Young&fontSize=90)
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/j9972/TODO-List) [![Alfred](https://img.shields.io/badge/Alfred-F7DF1E?style=flat-square&logo=Alfred&logoColor=black)](github.com/j9972/TODO-List)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fj9972&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+https://img.shields.io/badge/GMail-EA4335?style=flatsquare&logo=Gmail&logoColor=white&link=https://https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
+
 <!--
 **j9972/j9972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
