@@ -2,9 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=꾸준한%20걸음마&fontSize=90)
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/j9972/TODO-List)
-
-[![Alfred](https://img.shields.io/badge/Alfred-F7DF1E?style=flat-square&logo=Alfred&logoColor=black)](github.com/j9972/TODO-List)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/j9972/TODO-List) [![Alfred](https://img.shields.io/badge/Alfred-F7DF1E?style=flat-square&logo=Alfred&logoColor=black)](github.com/j9972/TODO-List)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fj9972&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
