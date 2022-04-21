@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=#ffcc00&height=300&section=header&text=꾸준한%20걸음마&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=#FFEE00&height=300&section=header&text=꾸준한%20걸음마&fontSize=90)
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/j9972/TODO-List) [![Alfred](https://img.shields.io/badge/Alfred-F7DF1E?style=flat-square&logo=Alfred&logoColor=black)](github.com/j9972/TODO-List)
 
