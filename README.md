@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!-- <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/> -->
+😊도전을 추구하는 개발자 정수영입니다
 
 😊MyㅡInfo
 
@@ -14,9 +15,6 @@
 
 😊Tools
 
-
-
-<img src="http://mazandi.herokuapp.com/api?handle={j9972}&theme=warm"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j9972)](https://github.com/j9972/github-readme-stats)
 
