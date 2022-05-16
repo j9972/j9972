@@ -11,7 +11,8 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=j9972)](https://solved.ac/j9972)
 
 😊Studying
-<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=White">
+<!-- <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=White"> -->
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 😊Tools
 
