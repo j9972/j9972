@@ -18,14 +18,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![Html5](https://img.shields.io/badge/Html5-E34F26.svg?&style=for-the-badge&logo=Html5&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-DC382D.svg?&style=for-the-badge&logo=Ruby&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-1572B6.svg?&style=for-the-badge&logo=Typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-#E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![Node.Js](https://img.shields.io/badge/Node.Js-339933.svg?&style=for-the-badge&logo=Node.Js&logoColor=white)
 ![Mysql](https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?&style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-1572B6.svg?&style=for-the-badge&logo=Typescript&logoColor=white)
+![Nest.Js](https://img.shields.io/badge/NestJS-#E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j9972)](https://github.com/j9972/github-readme-stats)
