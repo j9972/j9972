@@ -25,7 +25,7 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?&style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-1572B6.svg?&style=for-the-badge&logo=Typescript&logoColor=white)
-![Nest.Js](https://img.shields.io/badge/NestJS-#E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
+![Nest.Js](https://img.shields.io/badge/Nest.Js-#E0234E.svg?&style=for-the-badge&logo=Nest.Js&logoColor=white)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j9972)](https://github.com/j9972/github-readme-stats)
