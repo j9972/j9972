@@ -7,7 +7,8 @@
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=j9972&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=j9972&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=j9972)](https://solved.ac/profile/j9972)
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=j9972&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=j9972)](https://solved.ac/profile/j9972)
   <br>
   <br>
 </p>
@@ -23,7 +24,3 @@
 ![Mysql](https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?&style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j9972)](https://github.com/j9972/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j9972)](https://github.com/j9972/github-readme-stats)
