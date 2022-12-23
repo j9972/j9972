@@ -4,9 +4,9 @@
 
 <a href="https://github.com/j9972"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/>
   
-##My_Blog : <a href="https://techj9972.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tstory-FFFFFF?style=flat&logo=tstory&logoColor=000000"/></a> 
+## 😊My_Blog : <a href="https://techj9972.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tstory-FFFFFF?style=flat&logo=tstory&logoColor=000000"/></a> 
 
-##My_Resume : <a href="https://bony-mackerel-c61.notion.site/cd434e823bc546aca0d7f5101fff15ba" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=000000"/></a>
+## 😊My_Resume : <a href="https://bony-mackerel-c61.notion.site/cd434e823bc546aca0d7f5101fff15ba" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=000000"/></a>
 
 
 <p align="center">
