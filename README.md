@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there -  👋
 
-## 😊My_Info   
+## 😊My_Info   - Steady Effort For Better Developer
 
 <a href="https://github.com/j9972"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/>![focus](https://img.shields.io/badge/focus-backend-green)
-![living](https://img.shields.io/badge/living-YongIn-3c9)
+![living](https://img.shields.io/badge/living-YongIn-green)
   
 ## 😊My_Blog : <a href="https://techj9972.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tstory-FFFFFF?style=flat&logo=tstory&logoColor=000000"/></a> 
 
@@ -20,11 +20,13 @@
 </p>
 
 ## 😊My_STACKS
+  
+ <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
  
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
+ 
+ 
+ <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+ 
+ <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src = "https://img.shields.io/badge/Sequelize-52B0E7.svg?&style=for-the badge&logo=Sequelize&logoColor=white"> <img src = "https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"> 
 
-![Node.Js](https://img.shields.io/badge/Node.Js-339933.svg?&style=for-the-badge&logo=Node.Js&logoColor=white)
-![Mysql](https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Mysql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?&style=for-the-badge&logo=Sequelize&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white)
