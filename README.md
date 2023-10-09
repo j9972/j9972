@@ -13,7 +13,7 @@
 
 <div align='center'>
  
-<a href="https://techj9972.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+<a href="https://techj9972.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"> 
 
 </div>
  
@@ -25,14 +25,14 @@
 
 </div>
 
-<p align="center">
+<div align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=j9972&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=j9972&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   
   [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=j9972)](https://solved.ac/profile/j9972)
   <br>
   <br>
-</p>
+</div>
 
 ## 😊My_STACKS
 <div align='center'>
