@@ -13,9 +13,7 @@
 
 <div align='center'>
  
-<a href="https://techj9972.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"> 
- 
-<a href="https://bony-mackerel-c61.notion.site/cd434e823bc546aca0d7f5101fff15ba" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=000000"/></a>
+<a href="https://techj9972.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"> <a href="https://bony-mackerel-c61.notion.site/cd434e823bc546aca0d7f5101fff15ba" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=000000"/></a>
 
 </div>
 
