@@ -1,6 +1,6 @@
 ## Jung-Su Young 😊
 
-## 😊My_Info   - Steady Effort For Better
+## 😊 My_Info   - Steady Effort For Better
 
 <div align='center'>
 
@@ -9,7 +9,7 @@
 
  </div>
   
-## 😊My_Blog & My_Resume : 
+## 📢 My_Blog & My_Resume : 
 
 <div align='center'>
  
@@ -17,7 +17,7 @@
 
 </div>
 
-## 😊About Me : 
+## ✨ About Me : 
 
 <div align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=j9972&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -28,7 +28,7 @@
   <br>
 </div>
 
-## 😊My_STACKS
+## 👨‍ My_STACKS
 <div align='center'>
   
  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
@@ -38,6 +38,7 @@
  
  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
  
- <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src = "https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"> 
+ 
+ <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src = "https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"/>
  
 </div>
